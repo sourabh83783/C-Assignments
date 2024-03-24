@@ -29,8 +29,8 @@
 }*/
 int main( )
 {
-   char str1[] = "geeks" ;
-   char str2[] = "geeks" ;
+   char str1[] = "abc" ;
+   char str2[] = "ABC" ;
 
    int j = strcmpi ( str1, str2 ) ;
 

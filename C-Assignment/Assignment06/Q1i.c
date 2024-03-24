@@ -2,7 +2,7 @@
 #include <string.h> 
 int main() 
 { 
-    char src[] = "geeksforgeeks"; 
+    char src[] = "PG-DESD cource"; 
      
     char dest[14]; 
      
